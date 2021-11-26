@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>Groffe.Alturas</PackageId>
+    <Version>1.0.1</Version>
+    <Authors>Renato Groffe</Authors>
+    <Company>Groffe</Company>
+    <PackageTags>.NET6;Classlib</PackageTags>
+    <Description>
+      Biblioteca para conversão de Alturas em Pés para Metros
+    </Description>
+  </PropertyGroup>
+
+</Project>
